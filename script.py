@@ -4,5 +4,4 @@ from os import rename
 
 import requests
 
-print("Github is a pain in the ass")
-print("Fodass")
+print("Hello, I hope this is finally done man")
